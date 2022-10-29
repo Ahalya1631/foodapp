@@ -1,0 +1,28 @@
+
+
+.container{
+    background-color: antiquewhite;
+}
+.card{
+    margin:60px;
+}
+#food1{
+    float:left;
+    margin-left: 300px;
+    margin-top: 40px;
+    
+
+
+}
+#food3{
+    float:left;
+    margin-left: 300px;
+    margin-top: 40px;
+    
+}
+#food6{
+    float:left;
+    margin-left: 300px;
+    margin-top: 40px;
+
+}

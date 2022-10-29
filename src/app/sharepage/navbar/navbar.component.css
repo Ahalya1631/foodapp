@@ -1,0 +1,7 @@
+.nav-bar{
+    background-color: aquamarine;
+}
+.active-link{
+    font-weight:bold;
+    color:crimson;
+}

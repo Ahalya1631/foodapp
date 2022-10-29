@@ -1,0 +1,32 @@
+.container{
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(https://www.rolfredbergs.com/wp-content/uploads/2019/11/ROL-Fredbergs-McDonalds-Arlanda-Stockholm-Restaurant-Design-26.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height: 70vh;
+}
+form.text-field{
+    position:relative;
+    padding-left: 20px;
+    color:white;
+
+}
+form input[type="text"]{
+    width: 60%;
+}
+form input[type="number"]{
+    width: 60%;
+}
+.btn{
+    border-radius: 5px;
+    border:1px solid silver;
+    background-color:white;
+    color:black;
+}
+.btn:hover{
+    color:white;
+    background-color: black;
+}
+
+    

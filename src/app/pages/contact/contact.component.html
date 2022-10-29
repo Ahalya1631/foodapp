@@ -1,0 +1,21 @@
+
+<div class="container">
+    <h1>Contact Us:</h1><br>
+    <div class="text-field">
+        <form>
+            <label for>First Name:</label><br>
+           <input type="text" placeholder="Enter First Name" id="name" [(ngModel)]="name"><br>
+           <label for>Last Name:</label><br>
+           <input type="text" placeholder="Enter Last Name" id="lastname" [(ngModel)]="lastname"><br>
+           <label for>Address:</label><br>
+           <input type="text" placeholder="Enter address" id="address" [(ngModel)]="address"><br>
+           <label for>Mobile Number:</label><br>
+           <input type="number" placeholder="Enter mobile number" id="num" [(ngModel)]="num"><br>
+           
+        </form>
+        </div>
+        <div id="ah">
+            <input type="button" value="submit" (click)="Signup($event)">
+         </div>
+    </div>
+    
